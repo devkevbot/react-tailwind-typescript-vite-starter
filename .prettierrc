@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json.schemastore.org/prettierrc",
+  "overrides": [
+    {
+      "files": ".*rc",
+      "options": {
+        "parser": "json"
+      }
+    },
+    {
+      "files": ".nvmrc",
+      "options": {
+        "parser": "yaml"
+      }
+    }
+  ],
+  "plugins": ["prettier-plugin-curly", "prettier-plugin-packagejson"],
+  "semi": true,
+  "singleQuote": false,
+  "trailingComma": "es5",
+  "tabWidth": 2
+}
