@@ -3,3 +3,5 @@ pnpm-lock.yaml
 vite-env.d.ts
 public
 dist
+build
+coverage
