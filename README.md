@@ -2,13 +2,13 @@
 
 A starter kit for my preferred React, TailwindCSS, TypeScript, and Vite setup. This repository is intended to be used as a template to kick-start your new repository and not to be cloned directly.
 
-## Quickstart:
+## Quickstart
 
-1. Use this repository as a template:
+### Use this repository as a template
 
-![image](https://github.com/devkevbot/react-tailwind-typescript-vite-starter/assets/31908183/eae52cc6-6067-4510-a18d-4b3cdfb33a7d)
+- [Create a new repository](https://github.com/new?template_name=react-tailwind-typescript-vite-starter&template_owner=devkevbot)
 
-2. Start the dev server:
+### Start the dev server
 
 ```sh
 pnpm dev
@@ -16,13 +16,13 @@ pnpm dev
 
 ## Commands
 
-Start dev server:
+### Start dev server
 
 ```sh
 pnpm dev
 ```
 
-Run tests:
+### Run tests
 
 ```sh
 pnpm test
